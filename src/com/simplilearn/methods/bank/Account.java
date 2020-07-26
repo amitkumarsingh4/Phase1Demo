@@ -1,5 +1,5 @@
 package com.simplilearn.methods.bank;
-
+// java bean (pojo)
 public class Account {
 	
 	private int accNo;
